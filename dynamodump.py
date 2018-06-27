@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 """
+    test
     Simple backup and restore script for Amazon DynamoDB using boto to work similarly to mysqldump.
 
     Suitable for DynamoDB usages of smaller data volume which do not warrant the usage of AWS
